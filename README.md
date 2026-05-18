@@ -1,4 +1,4 @@
-# Análisis de Juegos de Steam 2025 🎮
+# Análisis de Juegos de Steam 2025
 
 Dashboard de análisis del catálogo de juegos disponibles en Steam durante 2025,
 construido con Power Query y DAX en Power BI.
